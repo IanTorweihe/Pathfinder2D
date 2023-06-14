@@ -66,4 +66,4 @@ The time complexity of the `solve_puzzle` function is O(MxN), where M and N are 
 
 ## Contact
 
-For any queries or further discussion, feel free to get in touch via GitHub.
+For any queries or further discussion, feel free to get in touch via GitHub or LinkedIn.
